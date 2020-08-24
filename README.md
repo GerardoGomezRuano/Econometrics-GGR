@@ -1,2 +1,2 @@
-# Econometrics-GGR (aka Gee-Gee)
+# Econometrics-GGR   (also known as Gee-Gee)
 Econometrics-GGR is an open source platform for econometrics. It has tools, libraries, and community resources that lets researchers push the state-of-the-art in econometrics and developers easily build and deploy econometrics-powered applications.  Econometrics-GGR was originally developed by Gerardo Gomez Ruano to provide accesible, practical Python tools for econometricians and data-scientists. The libraries are general enough to be applicable in a wide variety of other domains as well.
