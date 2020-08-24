@@ -1,0 +1,2 @@
+# Econometrics-GGR
+Econometrics-GGR is an open source platform for econometrics. It has tools, libraries, and community resources that lets researchers push the state-of-the-art in ML and developers easily build and deploy ML-powered applications.  Econometrics-GGR was originally developed by Gerardo Gomez Ruano to provide Python tools for econometricians. The libraries are general enough to be applicable in a wide variety of other domains as well.
